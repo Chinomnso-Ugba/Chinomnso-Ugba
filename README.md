@@ -13,7 +13,7 @@ I build responsive, accessible interfaces, and I've mentored two interns and tau
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 Currently learning: Next.js, TypeScript, GSAP
 
