@@ -3,7 +3,7 @@
 Junior front-end developer in Anambra, Nigeria, open to remote roles.
 I build responsive, accessible interfaces, and I've mentored two interns and taught programming to beginners.
 
-**Portfolio:** [portfolio-2026-ten-theta-90.vercel.app](https://portfolio-2026-ten-theta-90.vercel.app/)
+**Portfolio:** [nonso-portfolio-2026](https://nonso-portfolio-2026.vercel.app/)
 **LinkedIn:** [chinomnso-ugba](https://www.linkedin.com/in/chinomnso-ugba-b372222a1/)
 **Email:** chinomnsougba@gmail.com
 
